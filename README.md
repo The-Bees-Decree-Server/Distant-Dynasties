@@ -6,7 +6,7 @@ Will not function pre-mistlands verions of game.
  
   <h6> 
   
-Build with the insiration of oriental flare from Distant Dynasties. 
+Build with the inspiration of oriental flare from Distant Dynasties. 
 125+ New oreintal themed build pieces from leaning towards the same era as the vikings themselves.  
 Honor the formitable warriors of the east with your building skills!   
    
