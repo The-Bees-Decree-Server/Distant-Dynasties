@@ -1,0 +1,9 @@
+﻿{
+    "name": "Distant Dynasties",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/The-Bees-Decree-Server/SNOWDAY",
+    "description": "Build with the inspiration from the distant east! - MISTLANDS PTB ONLY",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1900"
+    ]
+}
