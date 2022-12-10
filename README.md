@@ -1,6 +1,6 @@
 
  
-# Distant Dynasties v1.1.0  - !!! ONLY FOR MISTLANDS PTB+ !!!   
+# Distant Dynasties v1.1.0  - !!! ONLY FOR MISTLAND !!!   
 Will not function pre-mistlands verions of game.   
 
  
@@ -65,7 +65,7 @@ Install by unzipping package and dropping *DistantDynasties.dll* into your clien
 
 
 > #### Change Log: <p>
-v1.1.0 Initial Mistlands PTB Release
+v1.1.0 Initial Mistlands Release
 </p>   
 
 
