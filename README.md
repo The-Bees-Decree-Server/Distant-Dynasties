@@ -1,7 +1,7 @@
 
  
-# Distant Dynasties v1.1.0  - !!! ONLY FOR MISTLAND !!!   
-Will not function pre-mistlands verions of game.   
+# Distant Dynasties v1.1.6  - !!! ONLY FOR MISTLAND !!!   
+
 
  
   <h6> 
@@ -63,10 +63,3 @@ Install by unzipping package and dropping *DistantDynasties.dll* into your clien
 ##### Distant Dynasties was designed for and by The Bees Decree Server devs! 
   
 
-
-> #### Change Log: <p>
-v1.1.0 Initial Mistlands Release
-</p>   
-
-
-</p>
