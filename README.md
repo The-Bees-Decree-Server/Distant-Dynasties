@@ -1,6 +1,6 @@
 
  
-# Distant Dynasties v1.1.6  - !!! ONLY FOR MISTLAND !!!   
+# Distant Dynasties v1.1.7  - !!! Hildir !!!   
 
 
  
