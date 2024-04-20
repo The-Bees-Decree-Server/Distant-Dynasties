@@ -5,7 +5,7 @@
 
  
 <h6>Build with the inspiration of oriental flare from Distant Dynasties. 
-150+ New oriental themed build pieces from leaning towards the same era as the vikings themselves.  
+150+ New oriental (Asian, Asia, Chinese, Japanese , Japan) themed build pieces from leaning towards the same era as the vikings themselves.  
 Honor the formidable warriors of the east with your building skills!   <p>  
    
 All pieces are found in a dedicated "hammer", *Ancient Scroll*.  
