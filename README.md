@@ -1,6 +1,6 @@
 
  
-# Distant Dynasties v1.1.90  - !!! Hildir !!!   
+# Distant Dynasties v1.2.0  - !!! ASHLANDS !!!   
    
 
  
@@ -66,31 +66,7 @@ This is a private discord do not join for mod help- you wont get it. :)
 
 
 > #### Change Log: <p>
->v1.1.0 - Initial Mistlands PTB Release  
-
->v.1.1.01 - Simple README UPDATE: Clarification on what game version the mod works on, not only the ptb.   
-
->v1.1.50   
->-Compliled against BepInEx 5.4.21.0 and latest version of game  
-
->v1.1.60   
--Compiled against latest version of game  
--IG's m now identify as s   
-
->v1.1.70   
->-A little codey-codey to hot fixy-fixy.  
-
->v1.1.80
--A little server syncy syncy   
--Compiled against latest version of game   
--Targets denikson-BepInExPack_Valheim-5.4.2200  
-
->v1.1.90   
->-Compiled against latest version of game   
--Targets denikson-BepInExPack_Valheim-5.4.2202  
--Added a Gong and Bell. They dont work they way you want them to. You can hit them and they make a metal noise but thats about it.  
--Added GOLDEN rooves, as per request.  
--SUPER CEREAL UNITY HOUSE KEEPING... shit casts shadows now too, you're welcome.
+>v1.2.0 added 1x1 tatami mats plus snappable
 
 <p>
 
