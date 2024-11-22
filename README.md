@@ -1,17 +1,18 @@
 
  
-# Distant Dynasties v1.2.0  - !!! ASHLANDS !!!   
+# Distant Dynasties v3.0.0  - !!! BOG WITCH !!!   
    
-
+# READ!!! THIS MOD NOW HAS A DEPENDANCY ON JOTUNN (JVL). SINCE THE CHANGE PLEASE BACK UP YOUR WORLD FIRST JUST TO BE SAFE!!!  
+<br>
  
 <h6>Build with the inspiration of oriental flare from Distant Dynasties. 
-150+ New oriental (Asian, Asia, Chinese, Japanese , Japan) themed build pieces from leaning towards the same era as the vikings themselves.  
+150+ New oriental themed build pieces from leaning towards the same era as the vikings themselves.  
 Honor the formidable warriors of the east with your building skills!   <p>  
    
 All pieces are found in a dedicated "hammer", *Ancient Scroll*.  
 
 *item_AncientScroll* takes 1 FineWood to craft. 
-Recipe for hammer can be locked/adjusted via SERVER SYNC/config.  
+ 
 
 
 NOTE: This is semi-WIP, build pieces like Rooves are a little funky due to their complex nature.  
@@ -24,7 +25,6 @@ Peices are divided across all sections/tabs of the "hammer" for better visabilit
 <br>
 
 
->**Distant Dynasties** only requires **BEPINEX** as a dependency. 
  Don't like the recipes? Use a custom recipe editor, like [Wacky's Database](https://valheim.thunderstore.io/package/WackyMole/WackysDatabase/).
   
 <p>
@@ -62,11 +62,20 @@ This is a private discord do not join for mod help- you wont get it. :)
 
 
 ##### Distant Dynasties was designed for and by The Bees Decree Server devs! 
+     
+   
+   
   
-
+   
+   
+      
 
 > #### Change Log: <p>
->v1.2.0 added 1x1 tatami mats plus snappable
+
+>v3.0.0   
+>-Compiled against latest version of game   
+-Targets denikson-BepInExPack_Valheim-5.4.2202  
+-NOW DEPENDENT ON JVL 
 
 <p>
 
